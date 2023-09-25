@@ -15,15 +15,56 @@
  /* /header */
 
  /* main */
-
- .booleaner{
+h1{
+    font-size: 40px;
+}
+ 
+.booleaner{
    color: #20a9e5; 
  }
- h4,h5{
+ .titolini{
     color: #808080;
  }
 
+ .spiegazione-foto{
+    font-size: 13px;;
+ }
 
+ul{
+    margin-top: 2%;
+    margin-left: -1.5%;
+}
+.titolo{
+    margin-top: 1%;
+}
+.margine{
+    margin-left: 0.5%;
+}
+
+.distance{
+    margin-top: 2%;
+}
+
+.evidenziato{
+    background-color: #ffff00;
+}
+
+thead{
+    color: white;
+    background-color: #20a9e5;
+   
+}
+.tabs-chiara{
+    background-color: #b1e5f2;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: left;
+}
+td{
+    width: 32%;
+}
 
 
 
